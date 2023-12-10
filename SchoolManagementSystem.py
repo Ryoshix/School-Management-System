@@ -20,7 +20,6 @@ def print_role1_features():
     print("\nКак учитель вы можете:" +
           "\n1. Посмотреть всех учеников вашего класса" +
           "\n2. Выяснить успеваемость всех учеников по вашему предмету")
-    return
 
 def display_role_features(userRole):
     if userRole == role1:
